@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<head>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div id="side">
+<h3 id="title"><span id="side-kaomoji">ʕ⊙ᴥ⊙ʔ</span> KaomojiDB</h3>
+<h5 id="tagline">Kaomoji (顔文字; literally, "face mark") are Japanese emoticons you can understand 
+without tilting your head sideways.<br><br>
+Tip: Double-clicking the kaomoji to the right will copy them to your clipboard.</h5>
+<div id="buttons">
+</div>
+<div>
+<textarea id="search" placeholder="Search for kaomoji that contain the given string."></textarea>
+</div>
+<div>
+<textarea id="create-kaomoji" placeholder="Create your own kaomoji here. ٩ʕ◕౪◕ʔو"></textarea>
+<span id="create-kaomoji-helper"></span>
+<button id="copy-button">Copy to Clipboard</button>
+</div>
+</div>
+<div id="main">
+<span id="loading-message">Loading . . .</span>
+<table id="kaomoji-table"></table>
+</div>
+<script src="js/kdb.js"></script>
+</body>
+</html>
