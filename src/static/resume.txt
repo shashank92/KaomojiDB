@@ -19,7 +19,7 @@ Junior software developer with full-stack web development skills.
 Programming Languages: Java, Python, JavaScript, PHP, and MySQL.
 Tools: Eclipse IDE, Maven, MySQL Workbench, Git
 Java Web Frameworks: Spark
-JavaScript Web Frameworks Node.js + Express
+JavaScript Web Frameworks: Node.js + Express
 Python Web Frameworks: Bottle
 Front End Libraries: JQuery, Bootstrap CSS
 
