@@ -33,5 +33,5 @@ def getkaomoji():
 
 if __name__ == "__main__":
     k = kaomoji = getkaomoji()
-    with open("json/kaomoji.json", "w") as f:
+    with open("static/kdb/json/kaomoji.json", "w") as f:
         json.dump(kaomoji, f)

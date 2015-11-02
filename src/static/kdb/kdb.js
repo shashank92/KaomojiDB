@@ -76,7 +76,7 @@
     };
     
     var request = new XMLHttpRequest();
-    request.open('GET', 'json/kaomoji.json', true);
+    request.open('GET', '/kdb/json/kaomoji.json', true);
     request.onload = function() {
         if (request.status >= 200 && request.status < 400) {
             kaomoji = JSON.parse(request.responseText);

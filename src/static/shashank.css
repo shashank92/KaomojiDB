@@ -1,0 +1,73 @@
+body {
+  background-color: black;
+  font-family: monospace;
+  word-wrap: break-word;
+}
+
+#main {
+  width:360px;
+  padding: 20px;
+  color: #cecece;
+  background-color: black;
+  -webkit-box-shadow: 0px 0px 50px 0px rgba(178,127,255,1);
+  -moz-box-shadow: 0px 0px 50px 0px rgba(178,127,255,1);
+  box-shadow: 0px 0px 50px 0px rgba(178,127,255,1);
+}
+
+.centered {
+  position: relative;
+  left: 50%;
+  top: 50px;
+  /* Fix centering in a cross-browser way */
+  -ms-transform: translate(-50%, 0);
+  -webkit-transform: translate(-50%, 0);
+  transform: translate(-50%, 0);
+}
+
+#about-me {
+  text-align: center;
+}
+
+#about-me, #rest-of-stuff, .pre-wrap {
+  white-space: pre-wrap;
+}
+
+a, #cmd-line {
+  color: white; 
+}
+
+a:hover {
+  color: #dcccff; 
+}
+
+.light-gray-text {
+    color: #cecece;
+}
+
+#blink {
+  -moz-animation: 1s blink step-end infinite;
+  -webkit-animation: 1s blink step-end infinite;
+  animation: 1s blink step-end infinite;
+}
+@-moz-keyframes blink {
+  from,to {
+    color: transparent; }
+  50% {
+    color: white; 
+  } 
+}
+@-webkit-keyframes blink {
+  from,to {
+    color: transparent; 
+  }
+  50% {
+    color: white; 
+  } 
+}
+@keyframes blink {
+  from,to {
+    color: transparent; }
+  50% {
+    color: white; 
+  } 
+}
