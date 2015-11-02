@@ -50,7 +50,7 @@ Express for Node.js. Implemented OAuth2 and OAuth1 sign-ins with multiple
 APIs for Geeks4Hire project, helped set up security for local CentOS server, 
 developed the company’s main website, worked on an internal Mailbot 
 application for internal use so that our staff could send consultant's 
-resumes to relevant recruiters based on their skillset.
+resumes to relevant recruiters based on their skill set.
 
 -------------------------------------------------------------------------------
 
