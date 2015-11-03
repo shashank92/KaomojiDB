@@ -1,11 +1,11 @@
 Shashank Gupta
-	
+
 
 Summary
 ________________
 
 
-Junior software developer with full-stack web development skills. Knowledgeable in OOP, concurrency, data structures, algorithms, and web security concepts. Automates build, test, and deploy procedures. Adheres to common software development principles.
+Junior software developer with CS background and full-stack web development skills. Knowledgeable in OOP, concurrency, data structures, algorithms, and web security concepts. Automates build, test, and deploy procedures. Adheres to common software development principles.
 
 
 GitHub: https://github.com/Shashank92/
