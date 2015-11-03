@@ -20,7 +20,7 @@ Programming Languages: Java, Python, JavaScript, PHP, and MySQL.
 Tools: Eclipse IDE, Maven, MySQL Workbench, Git
 Java Web Frameworks: Spark
 JavaScript Web Frameworks: Node.js + Express
-Python Web Frameworks: Bottle
+Python Web Frameworks: Tornado, Bottle
 Front End Libraries: JQuery, Bootstrap CSS
 
 Active user of both GitHub and Stack Overflow. Knowledgeable in OOP, 
@@ -50,7 +50,8 @@ Express for Node.js. Implemented OAuth2 and OAuth1 sign-ins with multiple
 APIs for Geeks4Hire project, helped set up security for local CentOS server, 
 developed the company’s main website, worked on an internal Mailbot 
 application for internal use so that our staff could send consultant's 
-resumes to relevant recruiters based on their skill set.
+resumes to relevant recruiters based on their skill set. Developed a chat 
+application using WebSockets and Node.js.
 
 -------------------------------------------------------------------------------
 
