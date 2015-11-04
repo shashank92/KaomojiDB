@@ -14,7 +14,7 @@ Education
 ________________
 
 
-UNIVERSITY OF MICHIGAN, ANN ARBOR 
+University of Michigan, Ann Arbor
 Ann Arbor, MI (2009-2013)
 Bachelor of Science, Computer Science
 
@@ -47,23 +47,23 @@ Northville, MI (November 2014 - July 2015)
 
 MAJOR DESIGN EXPERIENCE, Student 
 University of Michigan, Ann Arbor (September 2012 - December 2012)
-   * Designed and wrote many of the underlying classes using Python for an artificial intelligence Pokemon bot that could play competitively against humans.
-   * Wrote a heuristic procedure that involved spectating hundreds of matches per day to store their logs.
-   * Logs were eventually analyzed to form various statistics about decisions that led to players winning and losing.
-   * Base stat and moveset database helped the AI to predict opponent’s moves and react as if the opponent would make the best possible decision every time, similar to the minimax algorithm used for chess programs.
-   * Upon completion, our A.I. was winning roughly 55 percent of the matches on the matchmaking ladder against human players.
+* Designed and wrote many of the underlying classes using Python for an artificial intelligence Pokemon bot that could play competitively against humans.
+* Wrote a heuristic procedure that involved spectating hundreds of matches per day to store their logs.
+* Logs were eventually analyzed to form various statistics about decisions that led to players winning and losing.
+* Base stat and moveset database helped the AI to predict opponent’s moves and react as if the opponent would make the best possible decision every time, similar to the minimax algorithm used for chess programs.
+* Upon completion, our A.I. was winning roughly 55 percent of the matches on the matchmaking ladder against human players.
 
 
 MICROSOFT KINECT GAME, Student
 University of Michigan, Ann Arbor (January 2012 - May 2012)
-   * Project goal was to design a game for children with autism using Kinect technology.
-   * Worked as part of a group to develop modified version of Hot and Cold game that would allow children to search for hidden animals and objects in a two-dimensional maze-like map.
-   * Handled the vast majority of the motion tracking code which read input from the camera and locked onto the player's hands which were used to navigate through the map and search for hidden objects through gestures like pointing and sliding.
-   * Implemented much of the back end physics for our game which influenced factors such as character speed and the detection of found objects.
+* Project goal was to design a game for children with autism using Kinect technology.
+* Worked as part of a group to develop modified version of Hot and Cold game that would allow children to search for hidden animals and objects in a two-dimensional maze-like map.
+* Handled the vast majority of the motion tracking code which read input from the camera and locked onto the player's hands which were used to navigate through the map and search for hidden objects through gestures like pointing and sliding.
+* Implemented much of the back end physics for our game which influenced factors such as character speed and the detection of found objects.
 
 
 UROP PROJECT, Undergraduate Researcher  
 University of Michigan, Ann Arbor (September 2010 - May 2011)
-   * Undergraduate researcher as part of working under Dr. Natalia G Andronova of Atmospheric, Oceanic, and Space Sciences (AOSS).
-   * Extracted data of the variable net downward shortwave flux gathered from satellites over both time and coordinate systems and compared it with the data obtained from the MERRA reanalysis program.
-   * Data was used to come to a proposal for the optimal locations in the northeastern region of the U.S. for building solar batteries.
+* Undergraduate researcher as part of working under Dr. Natalia G Andronova of Atmospheric, Oceanic, and Space Sciences (AOSS).
+* Extracted data of the variable net downward shortwave flux gathered from satellites over both time and coordinate systems and compared it with the data obtained from the MERRA reanalysis program.
+* Data was used to come to a proposal for the optimal locations in the northeastern region of the U.S. for building solar batteries.
